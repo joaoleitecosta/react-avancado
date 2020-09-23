@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_list_concepts",
+  "info": {
+    "name": "ListConcepts",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
